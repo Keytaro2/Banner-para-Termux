@@ -1,6 +1,10 @@
 
 # BANNER PARA TERMUX
 
+
+Instrucciones 
+
+
 • pkg update ; pkg upgrade -y
 
 • pkg install git

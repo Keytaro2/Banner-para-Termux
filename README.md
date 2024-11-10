@@ -13,9 +13,9 @@
 
 ```• bash banner.sh```
 
-```• copia y pega la ruta de la imagen```
+• copia y pega la ruta de la imagen
 
-```• copia y pega el nombre de la imagen```
+• copia y pega el nombre de la imagen
 
 • finished :)
 

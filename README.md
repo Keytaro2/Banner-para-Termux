@@ -1,7 +1,6 @@
-
-
 # BANNER PARA TERMUX
 
+![Screenshot_20241110-071028](https://github.com/user-attachments/assets/17662e1b-7d6c-4ecd-b5dc-83ceb6f9ccbd) ![Screenshot_20241110-065517](https://github.com/user-attachments/assets/91d541a8-c524-408e-a197-e78da80633c1)
 
 ```Instrucciones```
 

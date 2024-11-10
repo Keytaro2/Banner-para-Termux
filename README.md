@@ -1,4 +1,5 @@
 
+
 # BANNER PARA TERMUX
 
 
@@ -20,5 +21,10 @@
 • finished :)
 
 
+  ̊┈─•𓏲࣪ ˚.kҽყtαrσ 🪶
 
-̊┈─•𓏲࣪ ˚.kҽყtαrσ 🪶
+
+
+
+
+![Screenshot_20241109-203557](https://github.com/user-attachments/assets/c81b1b2a-e0f4-47d6-81d0-739342762573)

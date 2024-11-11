@@ -10,7 +10,9 @@ Un script para Termux que cambia el inicio de termux por una imagen seleccionada
 
 ```• pkg update ; pkg upgrade -y```
 
-```• pkg install git```
+```• pkg install git ; cd```
+
+```• git clone https://github.com/Keytaro2/Banner-para-Termux.git```
 
 ```• cd Banner-para-Termux ; chmod +x *```
 

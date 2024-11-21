@@ -18,3 +18,7 @@
 
 
 ̊┈─•𓏲࣪ ˚.kҽყtαrσ 🪶
+
+![Screenshot_20241120-234237~2](https://github.com/user-attachments/assets/de092eb2-5297-4a14-bb0e-029004436065)
+![Screenshot_20241120-234919~2](https://github.com/user-attachments/assets/df7cf980-1fcd-49e7-85e0-a06fc75194b9)
+

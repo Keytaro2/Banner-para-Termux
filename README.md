@@ -2,7 +2,7 @@
 
 # BANNER PARA TERMUX
 
-Un script paratermux que cambia el banner por una imagen
+Un script para termux que cambia el banner por una imagen
 
 • pkg update ; pkg upgrade -y
 

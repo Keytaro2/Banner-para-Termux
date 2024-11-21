@@ -1,5 +1,8 @@
+![Screenshot_20241109-203557](https://github.com/user-attachments/assets/cc3f7740-734f-479d-b688-c30eaf86281f)
 
 # BANNER PARA TERMUX
+
+Un script paratermux que cambia el banner por una imagen
 
 • pkg update ; pkg upgrade -y
 
